@@ -1,0 +1,128 @@
+.header{
+    background-image: url("assets\imgs\fondo.jpg");
+    height: 20em;
+    background-color: #f6cec8;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.body{
+    background-color: #ccc7ae;
+}
+.imagen-principal{
+    border-radius: 2em;
+    margin-left: 60em;
+    height: 20em;
+    width: 20em;
+    
+}
+
+.tituloprincipal{
+    position: absolute;
+    left: 0;
+    top: 2em;
+    z-index: auto;
+    color: #545b55;
+    font-size: 52px; 
+}
+
+.leyendaprincipal{
+    position:absolute;
+    left: 20em;
+    top: 10em;
+    color: #545b55;
+    font-family: verdana;
+    font-size: 20px;
+    z-index: auto;  
+}  
+
+.products{
+    position: relative;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+.table{
+    position: relative;
+    text-align: center;
+    z-index: auto;
+
+}
+
+.td{
+    position: relative;
+    text-align: center;
+    z-index: auto;
+}
+
+.ul{
+    position: relative;
+    text-align: center;
+    z-index: auto;
+
+}
+
+.macarrones{
+    border-radius: 2em;   
+    border: 2px solid yellowgreen;
+    border-radius: 5px;
+    margin-top: 5em;
+    
+}
+
+.textomacarrones{
+    color: #545b55;
+    text-align: center;
+
+}
+
+.textomacarrones1{
+    color: #545b55;
+}
+
+.donas{
+    border-radius: 2em;
+    position: relative;
+    left: 50em;
+}
+
+.textodonas{
+    color: #545b55;
+}
+
+.pastel{
+    border-radius: 2em;    
+}
+
+.textopastel {
+    color: #545b55;
+}
+
+.box{
+    border-radius: 2em;
+    position: relative;
+    left: 50em;
+}
+
+.textobox{
+    color: #545b55;
+
+}
+
+.textobox1{
+    margin-bottom: 5em;
+    color: #545b55;
+    text-align: center;
+}
+
+.footer {
+    height: 2em;
+    background-color: #d19793;
+}
+
+.textofooter{
+    text-align: center;
+    color: white;
+    margin-top: 2em;
+}
